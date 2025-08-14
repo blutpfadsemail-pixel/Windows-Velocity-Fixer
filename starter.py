@@ -134,7 +134,7 @@ matrix_thread = threading.Thread(target=matrix_rain_live, args=(stop_event,), da
 matrix_thread.start()
 
 # === Run main.py ===
-desktop_path = os.path.join(os.path.expanduser("~"), "Desktop", "net8.0-Velocityfix")
+desktop_path = os.path.join(os.path.expanduser("~"), "Desktop", "Windows-Velocity-Fixer-main")
 script_to_run = os.path.join(desktop_path, "main.py")
 subprocess.run(["python", script_to_run], shell=True)
 
