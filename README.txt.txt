@@ -23,8 +23,9 @@ extract this order onto your Desktop
 
 Start python starter.py
 
+If its not working Disable your Antivirus
 
-This is the only step required to start the application.
+This are the only step required to start the application.
 
 Contributing
 
@@ -39,6 +40,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 Disclaimer
 
 This project is provided “as-is” without any warranties. The developers are not responsible for any data loss or misuse resulting from the use of this software. Users must ensure compliance with local laws and regulations when using the application.
+
 
 
 
